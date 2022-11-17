@@ -1,6 +1,6 @@
-projectKey=coit-frontend
-serverUrl=http://localhost:9000
-serverVersion=9.5.0.56709
-dashboardUrl=http://localhost:9000/dashboard?id=coit-frontend
-ceTaskId=AYJm4KdYNB7hiJGzQEcg
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYJm4KdYNB7hiJGzQEcg
+projectKey=Devsecops
+serverUrl=http://34.173.183.80:9000
+serverVersion=9.7.1.62043
+dashboardUrl=http://34.173.183.80:9000/dashboard?id=Devsecops
+ceTaskId=AYSFyg2J-ssTNgxUpkw3
+ceTaskUrl=http://34.173.183.80:9000/api/ce/task?id=AYSFyg2J-ssTNgxUpkw3

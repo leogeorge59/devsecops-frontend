@@ -26,3 +26,25 @@ spec:
                 MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaBwwhe+cnj6GbMquFkaH+w884NvP
                 N0T8rGfG/Dhfk3y8ixwdMH7sYNSIdqpo9mpG6iapN67mVJFmFowGc/v2tg==
                 -----END PUBLIC KEY-----
+      - imageReferences:
+        - "coitlearning/coit-backend1:*"
+        attestors:
+        - count: 1
+          entries:
+          - keys:
+              publicKeys: |-
+                -----BEGIN PUBLIC KEY-----
+                MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaBwwhe+cnj6GbMquFkaH+w884NvP
+                N0T8rGfG/Dhfk3y8ixwdMH7sYNSIdqpo9mpG6iapN67mVJFmFowGc/v2tg==
+                -----END PUBLIC KEY-----
+      - imageReferences:
+        - "coitlearning/coit-backend2:*"
+        attestors:
+        - count: 1
+          entries:
+          - keys:
+              publicKeys: |-
+                -----BEGIN PUBLIC KEY-----
+                MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaBwwhe+cnj6GbMquFkaH+w884NvP
+                N0T8rGfG/Dhfk3y8ixwdMH7sYNSIdqpo9mpG6iapN67mVJFmFowGc/v2tg==
+                -----END PUBLIC KEY-----

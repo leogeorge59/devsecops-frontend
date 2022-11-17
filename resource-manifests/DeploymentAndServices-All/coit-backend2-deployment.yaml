@@ -21,8 +21,8 @@ spec:
         app: coit-backend2
     spec:
       containers:
-        - image: coitlearning/coit-backend2:v1
-          imagePullPolicy: IfNotPresent
+        - image: leogeorge59/coit-backend2:1.0.0
+          imagePullPolicy: Always
           name: coit-backend2
           ports:
             - containerPort: 5000
